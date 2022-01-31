@@ -1,0 +1,2 @@
+bob bio roc -e ./results/{wld,wld-BHsh-100-2}/baseline/palm-R_1/nonorm/scores-{dev,eval} -lg wld,wld-BHsh -o roc.pdf
+
