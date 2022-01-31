@@ -30,7 +30,7 @@ done
 alpha=1
 cd $root_dir
 cd models
-cd img/AE
+cd img
 cd AE/alpha_$alpha/emb_100/verify
 verify.py $model-AE-BHsh-100.py -vvv
 verify.py $model-AE-BHsh-100-stolen.py -vvv
